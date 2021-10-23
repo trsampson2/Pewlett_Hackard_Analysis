@@ -9,7 +9,7 @@ Major points from the deliverables:
 
 ![retiring_titles](https://user-images.githubusercontent.com/86331812/138560347-2938f6f5-1b41-4fe6-bcd0-9a824b13bae2.png)
 
-2. The total number of retiring employees is 67,366 and the total number of employees eligible for the mentorship is 499,495.  This shows that the company can recover from the large number of employees eligible for retirement. 
+2. The total number of retiring employees is 67,366 and the total number of employees eligible for the mentorship is 1,549.  That is about 2% of the retiring employees.
 
 3. Looking at the mentorship eligbility table can be whittled down even more to show senior staff and above.  Looking it at there are other employees that may not be eligible for management included in the list.  Engineers and Staff may not be ready for management posititons as a senior engineer or senior staff would be.
 
@@ -17,8 +17,17 @@ Major points from the deliverables:
 
 ## Summary
 There are 67,366 roles will need to be filled as the "silver tsunami" begins.  
-There are enough employees eligible for the mentorship program.  There are 499,466 eligible for the mentorship program. 
+There are 1549 eligible for the mentorship program. 
 
-Mentorship eligibility by department
+Mentorship eligibility by department - shows the mentorship eligibility for each department.
 
-Initial department employees by department
+![mentorship_by_title](https://user-images.githubusercontent.com/86331812/138569118-8fdce541-f982-4e4a-9848-16fe115eb912.png)
+
+
+Retiring employees by department and title - shows how many of each title are retiring in each dept.
+
+![retiring_by_dept_title](https://user-images.githubusercontent.com/86331812/138570407-38a5ae28-7d8e-44cf-b26e-f9db34e662f0.png)
+
+
+
+
